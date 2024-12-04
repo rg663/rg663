@@ -9,3 +9,5 @@ Personally, I've worked on an AI-powered journal app designed to help you track 
 Academically, I've graduated at the top of my class as a Presidential Scholar with a B.S. in Computer Science (focus on Software and Information Systems and Machine Learning) and a minor in Mathematics. I've also been a teaching assistant for Intro to CS and Internet & Society, and in 3D Game Design, where I also got to project manage teams in their Unreal Engine game development processes. I've conducted research in both Programming Languages/Compilers and Swarm Robotics (in which I co-authored an AAAI Bridge paper). 📚
 
 I'd love to connect with you and collaborate on a new idea! ✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg663&hide_progress=true&theme=transparent)](https://github.com/rg663/github-readme-stats)
